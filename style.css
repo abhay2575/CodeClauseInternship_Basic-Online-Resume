@@ -1,0 +1,122 @@
+body {
+    
+   margin: 0;
+    padding: 0;
+  
+   
+
+}
+
+.resume {
+    width: 794.4px; /* Converted from 210mm */
+    margin: 75.6px auto; /* Converted from 20mm */
+    padding: 75.6px; /* Converted from 20mm */
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 1);
+
+}
+
+.resume h1 {
+    font-size: 28px;
+    margin-top: 0;
+    color:#007bff;
+    text-align: center;
+    margin-right: 60px;
+
+    
+}
+#email{
+    text-align: center;
+    margin-right: 15px;
+}
+.social{
+    display: flex;
+}
+#git {
+    margin-left: 150px;
+}
+
+h2 {
+    font-size: 24px;
+    color:#007bff;;
+}
+
+p {
+    margin: 0 0 10px;
+    font-size: 16px;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 75.6px 0; /* Converted from 20mm */
+}
+
+.section-title {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.experience-item {
+    margin-bottom: 15px;
+}
+
+.experience-item h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.experience-item p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.responsibility-item {
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.certification-item {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.contact{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.experience{
+    margin-left: 100px;
+}
+.technical{
+    margin-left: 100px;
+}
+.certification{
+    margin-left: 100px;
+}
+
+.education{
+    margin-left: 100px;
+}
+
+.projects{
+    margin-left: 100px;
+}
+.extra{
+    margin-left: 100px;
+}
